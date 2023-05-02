@@ -1,0 +1,14 @@
+.blue-sky {
+    color: blue;
+    font font-family: 'Times New Roman';
+}
+
+
+#table-yuk {
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    margin-left: 100;
+    background-color: antiquewhite;
+    padding: 15px;
+}
