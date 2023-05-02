@@ -1,3 +1,8 @@
+body {
+    background: url{"/foto/bg sawah.jpg"};
+}
+
+
 .blue-sky {
     color: blue;
     font font-family: 'Times New Roman';
@@ -11,4 +16,10 @@
     margin-left: 100;
     background-color: antiquewhite;
     padding: 15px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+
 }
